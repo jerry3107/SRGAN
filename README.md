@@ -6,6 +6,6 @@
 ![HR](https://github.com/jerry3107/SRGAN/assets/105486398/0f131849-00ad-4d14-ae25-1b3d37784597)**原圖**  
 可以看出相較於Bicubic放大，透過SRGAN的模型放大的結果有更好的解析度  
 # 參考資料  
-## Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network  
+## [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)  
 Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi
 
