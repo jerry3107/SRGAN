@@ -3,5 +3,5 @@
 
 ![bicubic](https://github.com/jerry3107/SRGAN/assets/105486398/1fc4db37-f586-4eb9-b514-8b08ba4df46c) 
 ![SR](https://github.com/jerry3107/SRGAN/assets/105486398/a4c29aa2-218d-4dd7-af5e-314eb8ff1013) 
-![HR](https://github.com/jerry3107/SRGAN/assets/105486398/0f131849-00ad-4d14-ae25-1b3d37784597)  
-Bicubic                                  SRGAN
+![HR](https://github.com/jerry3107/SRGAN/assets/105486398/0f131849-00ad-4d14-ae25-1b3d37784597 "Optional title")  
+
