@@ -4,7 +4,7 @@
 程式會載入模型，並對圖片進行預測，展示結果
 比較原圖、bicubic放大、預測結果
 """
-
+ 
 import os
 import cv2
 import numpy as np
